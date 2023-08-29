@@ -1,0 +1,1 @@
+img_quantized_scaled = img_quantized_scaled.astype(np.uint8)
